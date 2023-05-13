@@ -1,0 +1,48 @@
+body{
+    background-color:cornsilk;
+    font-family: sans-serif
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+
+}
+
+p{
+    color: coral;
+    /* font-size: 1rem; */
+}
+
+div h2 {
+    color: aqua;
+}
+
+#parrafo_especial{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.parrafo {
+    color: chartreuse;
+    font-style: italic;
+
+}
+
+a, img {
+    display: block;
+}
+
+a{
+    margin: 50px 20px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color:chartreuse;
+}
+
+img {
+    width: 50%;
+    margin:auto
+}
